@@ -1,3 +1,4 @@
+![logo](https://github.com/Alishgithub-beep/Alishgithub-beep/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Alish Namdev</h1>
 <h3 align="center">A passionate aspiring data scientist and AI engineer</h3>
 
