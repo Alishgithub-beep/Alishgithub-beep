@@ -16,7 +16,7 @@
 <a href="https://kaggle.com/alishnamdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alishnamdev" height="30" width="40" /></a>
 <a href="https://instagram.com/alishh_here_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alishh_here_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@alishhere1832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alishhere1832" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alishnamdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alishnamdev" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ViberAlish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alishnamdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
